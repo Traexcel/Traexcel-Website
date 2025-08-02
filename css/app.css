@@ -6297,8 +6297,8 @@
   overflow: hidden;
 }
 .button-go.show {
-  right: 20px;
-  opacity: 1;
+  right: 26px;
+    opacity: 0;
   visibility: visible;
 }
 .button-go::before, .button-go::after {
@@ -11649,4 +11649,5 @@ body .dribbble img {
     border-right: 2px solid #2f9c01;}
 .footer-menu{ line-height:18px !important}
 .footer-style2 .footer-item-logo .logo img {width: 250px !important;}
+
 
